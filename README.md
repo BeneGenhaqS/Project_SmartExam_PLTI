@@ -1,12 +1,16 @@
 # SMART EXAM
 
-Ini adalah proyek besar untuk tugas mata kuliah Desain Aplikasi Interaktif yang dikerjakan oleh:
+Project Akhir PLTI - ITB 2023 
 
-Aditya Sudyana (23222063) LTI, 
-Bene Genhaq Suseno (23222026) LTI
+Tim :
+Aditya Sudyana - 23222063 
+Bene Genhaq Suseno - 23222026 
+Imam Habib Pamungkas - 23222061 
+Naufal Famhi Zakiuddin - 23222070 
+Raphael Fransiskus Manurung - 23222307 
 
-Nama proyek kami adalah Smart Exam yang memiliki tujuan untuk meminimalisir tingkat kecurangan saat ujian online. 
-Smart Exam berkonsep Software as a Service
+
+Smart Exam adalah sebuah Web integrasi pengelolaan ujian (Admin, Pengajar, Peserta) dengan adanya pengawas otomatis menggunakan AI. Tujuan utamanya untuk mengurangi dan mendeteksi kecurangan yang mungkin dilakukan peserta pada ujian Online (daring).
 
 ## Tools
 
@@ -15,15 +19,12 @@ dan Untuk Backend, kami menggunakan Firebase Authentication, Realtime Database, 
 
 ## Aplikasi Smart Exam
 
-Aplikasi Smart Exam berbasis web dan dapat diakses melalui https://smart-exam-dai.web.app/
+Aplikasi Smart Exam berbasis web dan dapat diakses melalui https://smart-exam-saas.web.app/
 
-## Panduan Penggunaan Aplikasi
-
-Panduan penggunaan Smart Exam bisa diunduh melalui https://github.com/aditsud/smart-exam/raw/main/Panduan_Penggunaan_SmartExam.pdf
 
 ## Video Presentasi
 
-Video Presentasi Smart Exam dapat dilihat melalui https://youtu.be/AbgKyXzRkWk
+Video Presentasi Smart Exam dapat dilihat melalui https://youtu.be/tov2ABaqcZk
 
 ## Aplikasi Smart Exam (Offline)
 
@@ -37,7 +38,3 @@ npm install
 ```sh
 npm run dev
 ```
-
-## Detail Progress Smart Exam
-
-Untuk detail progress Smart Exam dari kelompok kami, dapat dilihat pada folder di Teams
