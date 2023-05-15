@@ -1,0 +1,38 @@
+{
+  "name": "smart-exam",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && npm run hosting-plti && npm run hosting-dai",
+    "preview": "vite preview",
+    "hosting-plti": "firebase deploy --only hosting:smart-exam-saas",
+    "hosting-dai": "firebase deploy --only hosting:smart-exam-dai"
+  },
+  "dependencies": {
+    "@mdi/font": "7.0.96",
+    "@vueup/vue-quill": "^1.1.1",
+    "@vueuse/core": "^9.13.0",
+    "animate.css": "^4.1.1",
+    "copy-to-clipboard": "^3.3.3",
+    "crypto-js": "^4.1.1",
+    "decibel-meter": "^2.0.0",
+    "face-api.js": "^0.22.2",
+    "firebase": "^9.17.2",
+    "firebaseui": "^6.0.2",
+    "form-wizard-vue3": "^1.1.0",
+    "json-stable-stringify": "^1.0.2",
+    "lodash": "^4.17.21",
+    "mitt": "^3.0.0",
+    "pinia": "^2.0.33",
+    "roboto-fontface": "*",
+    "vue": "^3.2.38",
+    "vue-router": "^4.0.0",
+    "vuetify": "^3.0.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.1.9",
+    "vite-plugin-vuetify": "^1.0.0-alpha.12"
+  }
+}
