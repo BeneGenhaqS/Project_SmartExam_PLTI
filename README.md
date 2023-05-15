@@ -3,11 +3,17 @@
 Project Akhir PLTI - ITB 2023 
 
 Tim :
+
 Aditya Sudyana - 23222063 
+
 Bene Genhaq Suseno - 23222026 
+
 Imam Habib Pamungkas - 23222061 
+
 Naufal Famhi Zakiuddin - 23222070 
+
 Raphael Fransiskus Manurung - 23222307 
+
 
 
 Smart Exam adalah sebuah Web integrasi pengelolaan ujian (Admin, Pengajar, Peserta) dengan adanya pengawas otomatis menggunakan AI. Tujuan utamanya untuk mengurangi dan mendeteksi kecurangan yang mungkin dilakukan peserta pada ujian Online (daring).
